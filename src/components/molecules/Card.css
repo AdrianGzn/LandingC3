@@ -1,0 +1,12 @@
+#my-card{
+    height: 165px;
+    width: 130px;
+    padding: 10px 15px 0;
+    background-color: rgb(230, 230, 230);
+    border-radius: 5px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    word-wrap: break-word;
+}

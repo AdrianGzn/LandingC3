@@ -1,0 +1,10 @@
+#contact{
+    height: 190px;
+    width: 230px;
+    background-color: rgb(58, 58, 58);
+    border-radius: 5px;
+    box-shadow: 0 -5px 0 #04AA6D;
+    padding: 0 15px 0;
+    overflow: hidden;
+    word-wrap: break-word;
+}
