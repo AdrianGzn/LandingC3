@@ -1,6 +1,6 @@
 #my-card{
     height: 165px;
-    width: 120px;
+    width: 140px;
     padding: 10px 15px 0;
     background-color: rgb(230, 230, 230);
     border-radius: 5px;
@@ -9,4 +9,9 @@
     align-items: center;
     overflow: hidden;
     word-wrap: break-word;
+}
+
+#image-card{
+    height: 55%;
+    width: 100%;
 }

@@ -2,14 +2,14 @@ const mysql = {
     products : [
         {
             image: 'Virtus.png',
-            text: 'Esta foto la tomé en un jardín'
+            text: 'Mensualidades desde $4,470'
         },{
             image: 'Tiguan.png',
-            text: 'Esta foto en mi casa'
+            text: 'Mensualidades desde $6,670'
         },
         {
             image: 'Taos.png',
-            text: 'Y esta otra foto en la calle'
+            text: 'Mensualidades desde $9,970'
         }
     ]
 }

@@ -1,10 +1,10 @@
-import Card from "../molecules/Card.jsx";
+import Cards from "../molecules/Cards.jsx";
 import "./SectionCards.css"
 
 function SectionCards() {
     return (
         <div id="cards">
-            <Card></Card>
+            <Cards></Cards>
         </div>
     )
 }
